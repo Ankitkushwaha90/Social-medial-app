@@ -1,3 +1,23 @@
+.env.local
+```env
+NEXT_PUBLIC_CLIERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_CLERK_WEBHOOK_SECRET=
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URI=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLIRK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLIRK_AFTER_SIGN_UP_URL=/
+
+MONGODB_URL=
+UPLOADTHING_SECRET=
+UPLOADTHING_APP_ID=
+```
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
